@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Shesher Kobita",
+      "price": "80",
+      "description": "The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times! ",
+      "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtXTan-pXn_rJn4dfjdOVOABAv7B3lZyyj9-gAlG_fxw7XmFnk"
+    },
+    {
+      "id": "2",
+      "name": "Pother Pachali",
+      "price": "95",
+      "description": "The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times!",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjJP02-A2zqBrII8bhwYNlJb--E16Mrhq88U6Mod6ADBFQgOo"
+    },
+    {
+      "id": "3",
+      "name": "Krishnakanter Will",
+      "price": "70",
+      "description": "The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times!",
+      "imgUrl": "https://bdebooks.com/wp-content/uploads/2023/01/Krishnakanter-Will-By-Bankim-Chandra-Chattopadhyay.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Gora",
+      "price": "100",
+      "description": "The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times! The book is very amazing to all of the readers all the times!",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xNegaXuTsiz1pz5WeeYgwyCdkXi3mrwY392XxcwNc7WSlFgLEYdIS3eq_KDEKhTIClw&usqp=CAU"
+    }
+  ]
+}
